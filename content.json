@@ -7,17 +7,20 @@
       {
         "id": "works",
         "name": "内容作品",
-        "page": "index.html"
+        "page": "index.html",
+        "description": "短视频与图文"
       },
       {
         "id": "strategy",
         "name": "策略与工作成果",
-        "page": "strategy.html"
+        "page": "strategy.html",
+        "description": "市场研究与团队管理"
       },
       {
         "id": "tools",
         "name": "AI提效工具",
-        "page": "tools.html"
+        "page": "tools.html",
+        "description": "工作台操作演示"
       }
     ],
     "pageNotice": "作品及分析为对应年份的工作记录，行业数据不代表当前市场情况。"
@@ -29,82 +32,130 @@
       {
         "id": "work01",
         "ordinal": "01",
-        "category": "品牌曝光 · 软性植入",
+        "category": "品牌曝光型：从硬广转向软性种草",
         "title": "北方人都好高啊！",
         "brand": "小羊森林",
-        "problem": "中式食养达人粉丝较精准，但以往较直接的产品介绍效果一般，儿童内容也不是她原本的主要方向。",
-        "decision": "我与达人从家长关心的身高话题切入，结合真实育儿经历共创内容，将合作目的从即时成交调整为兴趣激发和品牌认知。",
-        "outcome": "作品侧重精准人群的品牌曝光，不把食品描述成具有促进长高功效。",
         "video": "assets/videos/work-01-brand-exposure.mp4",
         "poster": "assets/images/work-01-brand-exposure.jpg",
         "external": "https://v.douyin.com/a784eF7vABQ/",
-        "externalLabel": "前往抖音观看"
+        "externalLabel": "前往抖音观看",
+        "sections": [
+          {
+            "label": "合作背景",
+            "text": "博主深耕中式食养领域，粉丝对食养理念的接受度较高，但以往内容更多围绕女性养生，儿童相关内容较少。此前尝试过直接介绍产品的合作方式，效果并不理想。"
+          },
+          {
+            "label": "我的思路",
+            "text": "考虑到博主的人群与品牌目标用户有较高重合度，决定不再以即时成交为主要目标，而是先激发用户对品牌的兴趣。选择家长关注的身高话题，与博主结合真实育儿经历共创内容，通过有讨论度的生活话题吸引观看，再自然带出品牌信息，减少硬广感。"
+          }
+        ]
       },
       {
         "id": "work02",
         "ordinal": "02",
-        "category": "育儿经验 · 深度转化",
+        "category": "经验分享型：用真实经历推动深度转化",
         "title": "中医医生教我的4点育儿方法",
         "brand": "小羊森林",
-        "problem": "用户电话调研发现，家长对孩子的日常饮食与身体状况十分关注，对入口产品选择谨慎；类似育儿经验内容此前已取得较好效果。",
-        "decision": "从目标家长关心的问题进入，结合博主真实经历、长期素材、多产品使用画面与其擅长的镜头切换，共创有细节、有真实感的分享内容。",
-        "outcome": "合作费用1,500元｜视频直接成交超3,000元｜看后搜率1.15%｜相关搜索3,000余次｜连续4个月仍有长尾搜索和转化。",
         "video": "assets/videos/work-02-parenting-story.mp4",
         "poster": "assets/images/work-02-parenting-story.jpg",
         "external": "https://v.douyin.com/eq1MGQmRKKE/",
-        "externalLabel": "前往抖音观看"
+        "externalLabel": "前往抖音观看",
+        "sections": [
+          {
+            "label": "合作背景",
+            "text": "通过对核心购买用户的电话调研发现，不少家长长期关注孩子的饮食与身体状况，尝试过多种调整方式，希望找到适合自己孩子的解决办法，但对入口产品的选择十分谨慎。"
+          },
+          {
+            "label": "我的思路",
+            "text": "此前类似的育儿经验内容已经取得过较好效果，因此选择继续深挖这一方向。视频开头直接切入目标家长关心的问题，中间通过博主真实育儿经历、日常记录及多种尝试增加内容的真实感，最后自然引出四神饮。\n\n在内容共创中，充分利用博主孩子的镜头表现力，以及博主擅长的多场景切换方式。同时展示多个品牌产品，而不是只围绕单品反复推荐，让内容更符合博主真实分享的表达习惯。"
+          },
+          {
+            "label": "执行难点",
+            "text": "对博主自身经历、长期素材积累及产品体验要求较高，需要投入较多时间沟通和准备，不适合直接批量复制。"
+          }
+        ],
+        "outcomeLabel": "实际成果",
+        "outcome": "合作费用1,500元，视频直接成交超过3,000元，看后搜率1.15%，带来3,000余次相关搜索；发布后连续4个月仍有长尾搜索及转化。"
       },
       {
         "id": "work03",
         "ordinal": "03",
-        "category": "高信任达人 · 好物分享",
+        "category": "高信任达人：争取合作比控制脚本更重要",
         "title": "好吃又健康的宝宝零食",
         "brand": "小羊森林",
-        "problem": "达人以认真研究产品、真实分享建立粉丝信任，但粉丝以低月龄宝宝家长为主，与部分产品的适用年龄有差异，合作前期沟通难度较高。",
-        "decision": "看重她的选品判断和粉丝信任，投入时间争取合作；达成合作后不过度限制脚本，尊重达人原有的分享方式，并注意产品实际适用年龄。",
-        "outcome": "最终形成长期合作，多次产出效果较好的种草内容；截至离职，累计合作产出超过50万元。",
         "video": "assets/videos/work-03-baby-snack.mp4",
         "poster": "assets/images/work-03-baby-snack.jpg",
         "external": "https://v.douyin.com/NYbUV2eJwhU/",
-        "externalLabel": "前往抖音观看"
+        "externalLabel": "前往抖音观看",
+        "sections": [
+          {
+            "label": "合作背景",
+            "text": "博主以认真研究产品、分享真实体验为个人特色，粉丝黏性和信任度都较高。但其粉丝主要是低月龄宝宝家长，与部分产品的适用年龄并不完全匹配，前期合作沟通难度较大。"
+          },
+          {
+            "label": "我的思路",
+            "text": "看重博主的选品能力和粉丝信任基础，花费较长时间沟通，争取建立合作。合作达成后，没有强行要求使用统一的广告脚本，而是尽可能保留博主原有的内容风格，让她按照自己擅长的方式进行分享。"
+          }
+        ],
+        "outcomeLabel": "合作成果",
+        "outcome": "最终与博主建立长期合作关系，多次产出种草表现较好的内容。截至离职时，累计合作产出超过50万元。"
       },
       {
         "id": "work04",
         "ordinal": "04",
-        "category": "竞品对比 · 测评脚本",
+        "category": "横向测评型：用产品研究支撑脚本说服力",
         "title": "4大热门宝宝床围栏测评",
         "brand": "贝易",
-        "problem": "床围栏购买前通常需要比较多个品牌，简单重复自家产品卖点不足以回答用户对结构、操作和细节的疑问。",
-        "decision": "研究自家产品与竞品的具体差异，围绕选购维度安排测评脚本，用实际操作与细节画面呈现可核查的差异，避免没有依据的对比。",
-        "outcome": "视频具有持续搜索价值；截至2026年10月，仍出现在“床围栏测评”等相关搜索结果首页。",
         "video": "assets/videos/work-04-bedrail-review.mp4",
         "poster": "assets/images/work-04-bedrail-review.jpg",
         "external": "https://v.douyin.com/OpYE40uBNO8/",
-        "externalLabel": "前往抖音观看"
+        "externalLabel": "前往抖音观看",
+        "sections": [
+          {
+            "label": "合作背景",
+            "text": "床围栏属于消费者购买前会反复比较的产品，用户关注结构设计、使用便利性、产品细节及实际体验。简单介绍自家产品卖点，很难充分回答用户的选购疑问。"
+          },
+          {
+            "label": "我的思路",
+            "text": "先深入了解自家及竞品的产品细节，结合消费者关注的选购问题，设计横向测评脚本。通过真实产品展示、结构对比和实际操作，让用户直接看到不同产品的差异，而不是单纯依靠口播强调优势。"
+          },
+          {
+            "label": "执行难点",
+            "text": "既要了解自家产品，也要充分研究竞品；既要突出优势，又要保证比较客观、有事实依据。脚本策划和测评维度的选择，是这类内容最重要的环节。"
+          }
+        ],
+        "outcomeLabel": "内容成果",
+        "outcome": "视频具有较好的长期搜索价值，至今仍出现在“床围栏测评”等多个关键词的搜索结果首页。"
       },
       {
         "id": "work05",
         "ordinal": "05",
-        "category": "生活场景 · 单品开箱",
+        "category": "场景化开箱：让产品优点被直观看见",
         "title": "卸货倒计时30天啦",
         "brand": "贝易餐椅",
-        "problem": "餐椅功能较多，但单纯罗列产品参数，不容易让准妈妈想象在家里具体如何使用。",
-        "decision": "将开箱融入孕晚期准备母婴大件的生活Vlog，用安装、操作和场景画面直观展示产品特点，而不是停留在卖点介绍。",
-        "outcome": "把抽象的产品功能转化为看得见的真实使用体验。",
         "video": "assets/videos/work-05-highchair-unboxing.mp4",
         "poster": "assets/images/work-05-highchair-unboxing.jpg",
         "external": "https://v.douyin.com/gIthci0814w/",
-        "externalLabel": "前往抖音观看"
+        "externalLabel": "前往抖音观看",
+        "sections": [
+          {
+            "label": "合作背景",
+            "text": "餐椅具有不少实际使用功能，如果只介绍参数和卖点，很难让用户直观理解产品是否适合自己的家庭。"
+          },
+          {
+            "label": "我的思路",
+            "text": "选择孕晚期这一母婴大件用品的提前准备阶段，将单品开箱融入博主的孕期生活Vlog。通过实物展示、安装操作及具体功能演示，让用户在真实生活场景中看到产品特点，理解产品的实际使用价值。"
+          }
+        ],
+        "outcomeLabel": "内容亮点",
+        "outcome": "不只是告诉用户产品有什么功能，而是通过博主的实际操作，把产品优势转化为具体、直观的使用体验。"
       },
       {
         "id": "work06",
         "ordinal": "06",
-        "category": "小红书官号 · 独立内容创作",
+        "category": "小红书官号：独立策划与自然流成交",
         "title": "八九点吃东西拦不住？试试用四神汤托个底",
         "brand": "小羊森林",
-        "problem": "刚接手官号时，过去热门内容逐渐进入流量衰退期，简单复刻原有选题很难再次获得突破。",
-        "decision": "从自己的育儿经历找切口，围绕孩子睡前想吃东西的生活矛盾独立完成选题、标题、正文、话题和全部图片内容，再用自制图文工作台制作成稿。",
-        "outcome": "单篇自然流笔记直接成交金额超10,000元。",
         "images": [
           "assets/images/red-note-01.webp",
           "assets/images/red-note-02.webp",
@@ -114,101 +165,164 @@
           "assets/images/red-note-06.webp"
         ],
         "external": "https://xhslink.cn/o/6RS2X3f2NSk",
-        "externalLabel": "前往小红书查看"
+        "externalLabel": "前往小红书查看",
+        "sections": [
+          {
+            "label": "创作背景",
+            "text": "刚接手小红书官号及店铺运营时，品牌过去表现较好的内容已经进入流量衰退期，简单复刻原有选题难以再次取得突破。"
+          },
+          {
+            "label": "我的思路",
+            "text": "从自己真实的育儿经历中寻找选题，抓住“孩子睡前总想吃东西、家长不忍心拒绝”的生活矛盾。用家长熟悉的场景和情绪吸引阅读，再结合产品特点组织整篇内容。"
+          },
+          {
+            "label": "独立完成",
+            "text": "从选题、标题、正文、话题到图片内容策划均独立完成。先确定文案及图片结构，再使用自己开发的小红书图文制作工作台完成图片制作和发布。"
+          }
+        ],
+        "outcomeLabel": "实际成果",
+        "outcome": "单篇自然流笔记直接成交金额超过10,000元。"
       }
     ]
   },
   "strategy": {
     "heading": "策略与工作成果",
-    "intro": "从市场研究、业务流程到团队建设，选取过去工作中实际整理的四份代表性资料。",
+    "intro": "一些过去工作中独立整理的市场研究、业务流程、团队规划和学习笔记。",
     "items": [
       {
         "id": "s01",
         "ordinal": "01",
-        "category": "市场研究 · 竞品分析",
+        "category": "市场研究 / 竞品分析 / 用户洞察",
         "title": "儿童食养脾胃市场分析",
-        "summary": "围绕行业规模、价格变化、主要竞品、用户画像、达人带货及品牌5A人群开展分析，发现市场新客增长和品牌部分目标人群覆盖不足的问题，并提出针对性的种草和达人拓展建议。",
         "note": "基于2024年阶段数据的历史研究，不作为当前行情。",
         "preview": "assets/images/market-cover.png",
         "localPdf": "assets/docs/market-analysis-preview.pdf",
         "downloadPpt": "assets/docs/market-analysis-original.pptx",
         "external": "https://pcn23mcs4is1.feishu.cn/wiki/QUFVwAo5di3uu1kjP9Fck3LwnAc#mindmap",
-        "externalLabel": "相关研究导图（与PPT非同一份）"
+        "externalLabel": "相关研究导图（与PPT非同一份）",
+        "sections": [
+          {
+            "label": null,
+            "text": "为了找到下一阶段的业务增长机会，我整理了儿童食养市场的规模变化、竞争品牌、用户画像、达人带货及品牌5A人群数据。\n\n研究中发现，市场新客增长较快，但低价产品竞争加剧；小羊森林在部分目标人群中的种草覆盖仍有不足。因此，我提出加强31—40岁妈妈、精致妈妈及资深中产人群的种草，并从相关竞品的优质达人中寻找合作机会。"
+          }
+        ]
       },
       {
         "id": "s02",
         "ordinal": "02",
-        "category": "达人流程 · 新人培训",
+        "category": "业务流程 / 达人筛选 / 新人培训",
         "title": "抖音达人商务SOP",
-        "summary": "将达人开发、筛选判断、合作沟通、内容跟进、效果分析及长期维护等经验整理成思维导图，供团队新人学习和日常业务查阅。",
         "preview": "assets/images/mindmap-sop.png",
         "external": "https://pcn23mcs4is1.feishu.cn/wiki/IPFDwThTmijuw2khkincq4VanCb#mindmap",
-        "externalLabel": "查看飞书思维导图"
+        "externalLabel": "查看飞书思维导图",
+        "sections": [
+          {
+            "label": null,
+            "text": "带团队时发现，新人往往只知道怎么联系达人，却不一定能判断达人是否值得合作、适合什么产品，以及怎样推进后续内容。\n\n因此，我把自己积累的达人开发、账号判断、商务沟通、内容审核及效果复盘经验整理成SOP，并加入不同类型达人的筛选标准和合作思路，方便团队成员在实际工作中查阅和使用。"
+          }
+        ]
       },
       {
         "id": "s03",
         "ordinal": "03",
-        "category": "团队管理 · 岗位设计",
+        "category": "团队搭建 / 岗位分工 / 目标管理",
         "title": "抖音内容种草团队搭建规划",
-        "summary": "从个人负责达人合作转向带队后，重新梳理种草团队目标、内容与商务分工、岗位能力要求、培训方向、绩效考核思路及跨部门协作方式。",
         "preview": "assets/images/mindmap-team.png",
         "external": "https://pcn23mcs4is1.feishu.cn/wiki/AV0CwPqfiiqv0ukItLGcnEt6nHh#mindmap",
-        "externalLabel": "查看飞书思维导图"
+        "externalLabel": "查看飞书思维导图",
+        "sections": [
+          {
+            "label": null,
+            "text": "从自己负责达人合作，到开始带团队，我发现只安排每天联系多少达人、发布多少视频，很难真正提高团队的内容能力。\n\n因此，我重新梳理了内容种草团队的工作目标、岗位职责和能力要求，区分内容策划与商务开发的工作重点，同时整理培训方向、绩效考核思路及跨部门协作流程。\n\n希望让团队成员不仅知道要完成什么任务，也清楚为什么做、怎样判断内容质量，以及如何根据数据调整工作。"
+          }
+        ]
       },
       {
         "id": "s04",
         "ordinal": "04",
-        "category": "个人学习 · 知识积累",
-        "title": "商业知识学习与整理",
-        "summary": "持续整理用户需求、商业价值、沟通合作和商业关系等知识，作为理解业务问题、反思工作方法的个人学习笔记。",
+        "category": "持续学习 / 商业认知 / 知识积累",
+        "title": "个人商业知识学习与整理",
         "preview": "assets/images/mindmap-learning.png",
         "external": "https://oq0x8bxetg.feishu.cn/wiki/Ba6FwF2KCiwd0skxXkWcYzBxnje#mindmap",
-        "externalLabel": "查看飞书思维导图"
+        "externalLabel": "查看飞书思维导图",
+        "sections": [
+          {
+            "label": null,
+            "text": "除了日常工作，我也会主动学习和整理商业、用户需求及沟通合作相关的知识。\n\n这份思维导图主要记录了我对用户需求、产品价值、商业关系等方面的学习和思考。工作中遇到一些问题时，也会重新回到这些内容中寻找启发，逐步形成自己的理解。"
+          }
+        ]
       }
     ]
   },
   "tools": {
     "heading": "AI提效工具",
-    "intro": "日常工作中，我从实际问题出发，借助AI及编程工具搭建了一些自己使用的业务工具。以下展示真实操作过程。",
+    "intro": "在日常内容运营和达人管理中，我借助AI及编程工具，根据实际工作需要搭建了一些小工具，主要用于减少重复操作、提高数据整理和业务管理效率。",
     "items": [
       {
         "id": "t01",
         "ordinal": "01",
         "category": "内容生产效率",
         "title": "小红书图文制作工作台",
-        "problem": "官号笔记图文需要频繁调整文案、图片和排版，重复制作耗时。",
-        "decision": "根据日常发文流程，借助AI搭建模板化图文工作台；确定内容后直接制作图片。",
-        "outcome": "单篇图文制作时间缩短至约5分钟，已用于真实官号发布。",
         "video": "assets/videos/tool-01-red-graphics.mp4",
         "poster": "assets/images/tool-01-red-graphics.jpg",
         "external": "https://xhslink.cn/o/2Od4qp6Fnds",
-        "externalLabel": "查看小红书工具演示"
+        "externalLabel": "查看小红书工具演示",
+        "sections": [
+          {
+            "label": "解决的问题",
+            "text": "官号图文需要频繁制作，标题、正文、图片排版等工作比较耗时。"
+          },
+          {
+            "label": "我的做法",
+            "text": "根据实际发笔记的需求，借助AI搭建图文制作工具，将常用排版和设计样式模板化。确定好内容后，可以直接在工作台中制作图片，减少重复排版时间。"
+          }
+        ],
+        "outcomeLabel": "实际效果",
+        "outcome": "单份图文制作时间缩短至约5分钟，并已用于实际官号笔记发布。"
       },
       {
         "id": "t02",
         "ordinal": "02",
         "category": "种草数据分析",
-        "title": "小红书种草数据工作台",
-        "problem": "达人合作、费用、发布、成交和ROI信息分散，人工整理与复盘需要反复跨表处理。",
-        "decision": "根据实际业务字段搭建数据汇总与分析页面，集中查看达人及笔记效果，支持不同维度对比。",
-        "outcome": "减少重复统计，更方便地进行阶段性种草复盘；不使用未经核实的提效百分比。",
+        "title": "小红书种草数据分析工作台",
         "video": "assets/videos/tool-02-red-data.mp4",
         "poster": "assets/images/tool-02-red-data.jpg",
         "external": "https://xhslink.cn/o/21FvWCgJc5i",
-        "externalLabel": "查看小红书工具演示"
+        "externalLabel": "查看小红书工具演示",
+        "sections": [
+          {
+            "label": "解决的问题",
+            "text": "达人合作、笔记发布、费用和成交数据分散，人工整理和计算ROI比较繁琐。"
+          },
+          {
+            "label": "我的做法",
+            "text": "借助AI搭建数据分析工作台，整合达人合作、费用、笔记表现及成交数据，方便查看种草效果并对比不同达人、不同内容形式的投入产出情况。"
+          }
+        ],
+        "outcomeLabel": "实际用途",
+        "outcome": "用于日常数据跟踪和阶段性复盘，减少跨表统计工作。"
       },
       {
         "id": "t03",
         "ordinal": "03",
         "category": "达人关系管理",
         "title": "达人商务管理工作台",
-        "problem": "达人数量增加后，历史合作记录、查重和跟进状态分散，容易重复联系或漏掉后续动作。",
-        "decision": "结合实际商务流程设计达人信息、历史合作、沟通进度和工作记录的统一查询与管理界面。",
-        "outcome": "用于快速查询达人与跟进合作，减少重复核对和手工登记。",
         "video": "assets/videos/tool-03-creator-crm.mp4",
         "poster": "assets/images/tool-03-creator-crm.jpg",
         "external": null,
-        "externalLabel": null
+        "externalLabel": null,
+        "sections": [
+          {
+            "label": "解决的问题",
+            "text": "达人数量增加后，容易出现重复联系、合作记录分散、跟进状态不清楚等问题。"
+          },
+          {
+            "label": "我的做法",
+            "text": "借助AI搭建达人关系管理工具，集中记录达人信息、历史合作、沟通状态和寄样情况，支持快速查询及合作查重。"
+          }
+        ],
+        "outcomeLabel": "实际用途",
+        "outcome": "帮助自己和团队更方便地查询达人、跟进合作，减少重复登记与查找资料的时间。"
       }
     ]
   },

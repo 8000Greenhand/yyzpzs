@@ -10,3 +10,7 @@ document.querySelectorAll('[data-copy]').forEach(button => button.addEventListen
  }
 }));
 document.querySelectorAll('video').forEach(video => video.addEventListener('play', () => document.querySelectorAll('video').forEach(other => { if (other !== video) other.pause(); })));
+const header = document.querySelector('header');
+const updateHeaderHeight = () => document.documentElement.style.setProperty('--header-height', `${header.getBoundingClientRect().height}px`);
+updateHeaderHeight();
+new ResizeObserver(updateHeaderHeight).observe(header);

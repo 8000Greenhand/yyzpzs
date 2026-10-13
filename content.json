@@ -129,7 +129,11 @@
         ],
         "outcomeLabel": "内容成果",
         "outcome": "视频具有较好的长期搜索价值，至今仍出现在“床围栏测评”等多个关键词的搜索结果首页。",
-        "shareText": "2.05 aaa:/ W@m.dA :5pm 05/16 4大热门宝宝床围栏测评‼️真实不踩雷🙆# 床围栏 # 母婴好物 # 床围栏推荐 # 婴儿安全 https://v.douyin.com/x90G0TycrvY/ 复制此链接，打开Dou音搜索，直接观看视频！"
+        "shareText": "2.05 aaa:/ W@m.dA :5pm 05/16 4大热门宝宝床围栏测评‼️真实不踩雷🙆# 床围栏 # 母婴好物 # 床围栏推荐 # 婴儿安全 https://v.douyin.com/x90G0TycrvY/ 复制此链接，打开Dou音搜索，直接观看视频！",
+        "related": {
+          "href": "strategy.html#s-bedrail",
+          "label": "查看这类视频的内容策划思路 →"
+        }
       },
       {
         "id": "work05",
@@ -214,8 +218,102 @@
         ]
       },
       {
-        "id": "s02",
+        "id": "s-bedrail",
         "ordinal": "02",
+        "category": "产品研究 / 脚本策划 / 达人共创",
+        "title": "贝易床围栏内容策划与达人案例",
+        "sections": [
+          {
+            "label": null,
+            "text": "为了让床围栏种草视频更有说服力，我先梳理产品的材质、结构、稳固性、安全细节和使用便利性，明确用户购买时最关心的问题，以及不同卖点应该怎样通过画面展示。\n\n针对不同类型的达人，我分别整理了横向测评、开箱推荐和萌娃生活记录等视频案例与拍摄建议。测评类重点展示产品差异，开箱类通过安装和操作呈现卖点，萌娃类则需要将孩子的真实行为与产品使用场景结合起来，而不是简单让产品出镜。"
+          }
+        ],
+        "documents": [
+          {
+            "name": "床围栏内容策划资料",
+            "meta": "历史策划资料（未标注策划日期）｜原第3—6页节选｜4页",
+            "preview": "assets/images/beiyi-bedrail-page-3.png",
+            "pdf": "assets/docs/beiyi-bedrail-excerpt.pdf",
+            "readLabel": "查看策划资料"
+          }
+        ],
+        "related": {
+          "href": "index.html#work04",
+          "label": "观看实际测评视频 →"
+        }
+      },
+      {
+        "id": "s-beiyi-market",
+        "ordinal": "03",
+        "category": "市场分析 / 竞品研究 / 达人策略",
+        "title": "贝易抖音母婴品类市场研究",
+        "sections": [
+          {
+            "label": null,
+            "text": "在负责贝易抖音渠道相关工作期间，我对水杯、餐椅和牙胶品类进行了市场研究，主要分析行业规模、产品价格带、竞争品牌，以及不同量级达人的带货表现。\n\n研究中发现，不同品类适合的推广方式差异很大。例如牙胶以低粉丝量级垂类达人为主，水杯则更需要关注10—50万粉丝的中腰部达人，并考虑头部直播资源。结合这些分析，我进一步整理了各品类适合的内容形式、达人合作方向和推广计划。"
+          }
+        ],
+        "documents": [
+          {
+            "name": "水杯、餐椅市场研究",
+            "meta": "2022年11月｜水杯、餐椅市场研究｜14页",
+            "preview": "assets/images/beiyi-market-2022-cover.png",
+            "pdf": "assets/docs/beiyi-market-2022.pdf",
+            "readLabel": "查看2022年研究",
+            "ppt": "assets/docs/beiyi-market-2022-original.pptx",
+            "downloadLabel": "下载2022年原始PPT"
+          },
+          {
+            "name": "牙胶、水杯、餐椅市场研究",
+            "meta": "2023年2月｜牙胶、水杯、餐椅市场研究｜22页",
+            "preview": "assets/images/beiyi-market-2023-cover.png",
+            "pdf": "assets/docs/beiyi-market-2023.pdf",
+            "readLabel": "查看2023年研究",
+            "focusPages": [
+              5,
+              10,
+              14,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "focusNote": "第14页中的推广数量为当时的计划。"
+          }
+        ]
+      },
+      {
+        "id": "s-beiyi-weekly",
+        "ordinal": "04",
+        "category": "经营分析 / 竞品对比 / 业务优化",
+        "title": "贝易产品经营分析与周度复盘",
+        "sections": [
+          {
+            "label": null,
+            "text": "除了内容和达人推广，我也会从整体经营数据中寻找营销需要解决的问题。这份周报围绕床围栏、浴盆、牙胶等产品，分析销售目标完成情况、搜索流量、商品转化、推广投产、竞品差距及客户流失。\n\n在复盘中，我不仅关注数据变化，也结合问题提出具体优化建议，包括产品详情页调整、种草内容方向、推广投入、价格测试和商品组合等。"
+          }
+        ],
+        "documents": [
+          {
+            "name": "产品经营周报",
+            "meta": "2023年6月11—17日｜产品经营周报｜32页",
+            "preview": "assets/images/beiyi-weekly-2023-cover.png",
+            "pdf": "assets/docs/beiyi-weekly-2023.pdf",
+            "readLabel": "在线阅读周报",
+            "ppt": "assets/docs/beiyi-weekly-2023-original.pptx",
+            "downloadLabel": "下载原始PPT"
+          }
+        ],
+        "metric": {
+          "text": "床围栏单面链接支付转化率：1.36% → 2.69%",
+          "note": "2023年6月4—10日与6月11—17日对比，后一周期包含618活动影响。"
+        }
+      },
+      {
+        "id": "s02",
+        "ordinal": "05",
         "category": "业务流程 / 达人筛选 / 新人培训",
         "title": "抖音达人商务SOP",
         "preview": "assets/images/mindmap-sop.png",
@@ -230,7 +328,7 @@
       },
       {
         "id": "s03",
-        "ordinal": "03",
+        "ordinal": "06",
         "category": "团队搭建 / 岗位分工 / 目标管理",
         "title": "抖音内容种草团队搭建规划",
         "preview": "assets/images/mindmap-team.png",
@@ -245,7 +343,7 @@
       },
       {
         "id": "s04",
-        "ordinal": "04",
+        "ordinal": "07",
         "category": "持续学习 / 商业认知 / 知识积累",
         "title": "个人商业知识学习与整理",
         "preview": "assets/images/mindmap-learning.png",

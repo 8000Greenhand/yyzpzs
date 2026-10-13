@@ -23,7 +23,8 @@
         "description": "工作台操作演示"
       }
     ],
-    "pageNotice": "作品及分析为对应年份的工作记录，行业数据不代表当前市场情况。"
+    "pageNotice": "作品及分析为对应年份的工作记录，行业数据不代表当前市场情况。",
+    "showPageNotice": false
   },
   "works": {
     "heading": "内容作品",
@@ -215,7 +216,8 @@
             "label": null,
             "text": "为了找到下一阶段的业务增长机会，我整理了儿童食养市场的规模变化、竞争品牌、用户画像、达人带货及品牌5A人群数据。\n\n研究中发现，市场新客增长较快，但低价产品竞争加剧；小羊森林在部分目标人群中的种草覆盖仍有不足。因此，我提出加强31—40岁妈妈、精致妈妈及资深中产人群的种草，并从相关竞品的优质达人中寻找合作机会。"
           }
-        ]
+        ],
+        "showNote": false
       },
       {
         "id": "s-bedrail",
@@ -234,7 +236,8 @@
             "meta": "历史策划资料（未标注策划日期）｜原第3—6页节选｜4页",
             "preview": "assets/images/beiyi-bedrail-page-3.png",
             "pdf": "assets/docs/beiyi-bedrail-excerpt.pdf",
-            "readLabel": "查看策划资料"
+            "readLabel": "查看策划资料",
+            "showMeta": false
           }
         ],
         "related": {

@@ -31,30 +31,8 @@
     "intro": "根据不同营销目标选择不同达人和内容表达方式。以下是我策划、与达人共创并推进发布的部分代表作品。",
     "items": [
       {
-        "id": "work01",
-        "ordinal": "01",
-        "category": "品牌曝光型：从硬广转向软性种草",
-        "title": "北方人都好高啊！",
-        "brand": "小羊森林",
-        "video": "assets/videos/work-01-brand-exposure.mp4",
-        "poster": "assets/images/work-01-brand-exposure.jpg",
-        "external": "https://v.douyin.com/a784eF7vABQ/",
-        "externalLabel": "前往抖音观看",
-        "sections": [
-          {
-            "label": "合作背景",
-            "text": "博主深耕中式食养领域，粉丝对食养理念的接受度较高，但以往内容更多围绕女性养生，儿童相关内容较少。此前尝试过直接介绍产品的合作方式，效果并不理想。"
-          },
-          {
-            "label": "我的思路",
-            "text": "考虑到博主的人群与品牌目标用户有较高重合度，决定不再以即时成交为主要目标，而是先激发用户对品牌的兴趣。选择家长关注的身高话题，与博主结合真实育儿经历共创内容，通过有讨论度的生活话题吸引观看，再自然带出品牌信息，减少硬广感。"
-          }
-        ],
-        "shareText": "6.94 pQX:/ M@J.ip :2pm 10/17 北方人都好高啊！ # 小羊森林 https://v.douyin.com/dop14Bd7HRk/ 复制此链接，打开Dou音搜索，直接观看视频！"
-      },
-      {
         "id": "work02",
-        "ordinal": "02",
+        "ordinal": "01",
         "category": "经验分享型：用真实经历推动深度转化",
         "title": "中医医生教我的4点育儿方法",
         "brand": "小羊森林",
@@ -82,7 +60,7 @@
       },
       {
         "id": "work03",
-        "ordinal": "03",
+        "ordinal": "02",
         "category": "高信任达人：争取合作比控制脚本更重要",
         "title": "好吃又健康的宝宝零食",
         "brand": "小羊森林",
@@ -103,6 +81,28 @@
         "outcomeLabel": "合作成果",
         "outcome": "最终与博主建立长期合作关系，多次产出种草表现较好的内容。截至离职时，累计合作产出超过50万元。",
         "shareText": "9.79 02/18 Z@M.JV :5pm Fus:/ 好吃又健康的宝宝零食 # 宝宝零食 # 宝宝爱吃 # 母婴好物 # 宝宝辅食 # 创作灵感 https://v.douyin.com/yK0h8_DhJvs/ 复制此链接，打开Dou音搜索，直接观看视频！"
+      },
+      {
+        "id": "work01",
+        "ordinal": "03",
+        "category": "品牌曝光型：从硬广转向软性种草",
+        "title": "北方人都好高啊！",
+        "brand": "小羊森林",
+        "video": "assets/videos/work-01-brand-exposure.mp4",
+        "poster": "assets/images/work-01-brand-exposure.jpg",
+        "external": "https://v.douyin.com/a784eF7vABQ/",
+        "externalLabel": "前往抖音观看",
+        "sections": [
+          {
+            "label": "合作背景",
+            "text": "博主深耕中式食养领域，粉丝对食养理念的接受度较高，但以往内容更多围绕女性养生，儿童相关内容较少。此前尝试过直接介绍产品的合作方式，效果并不理想。"
+          },
+          {
+            "label": "我的思路",
+            "text": "考虑到博主的人群与品牌目标用户有较高重合度，决定不再以即时成交为主要目标，而是先激发用户对品牌的兴趣。选择家长关注的身高话题，与博主结合真实育儿经历共创内容，通过有讨论度的生活话题吸引观看，再自然带出品牌信息，减少硬广感。"
+          }
+        ],
+        "shareText": "6.94 pQX:/ M@J.ip :2pm 10/17 北方人都好高啊！ # 小羊森林 https://v.douyin.com/dop14Bd7HRk/ 复制此链接，打开Dou音搜索，直接观看视频！"
       },
       {
         "id": "work04",
